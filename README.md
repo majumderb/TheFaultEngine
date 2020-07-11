@@ -8,4 +8,4 @@ Bodhisattwa Prasad Majumder, Ayan Sengupta, Sajal Jain, Parikshit Bhaduri
 
 4th International Conference on Business Analytics and Intelligence, IISc Bangalore
 
-ArXiv link: https://arxiv.org/abs/1603.08564
+ArXiv link: https://arxiv.org/abs/1610.04872
